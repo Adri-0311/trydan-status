@@ -12,3 +12,5 @@ Run dev mode:
 ```
 pnpm dev
 ```
+
+This proyect use [create vite --template react-ts](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) and [vite-express](https://github.com/szymmis/vite-express).
