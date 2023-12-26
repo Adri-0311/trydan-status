@@ -1,0 +1,20 @@
+export interface ChargerDataInterface {
+    ChargeState: number,
+    ChargePower: number,
+    ChargeEnergy: number,
+    SlaveError: number,
+    ChargeTime: number,
+    HousePower: number,
+    FVPower: number,
+    Paused: number,
+    Locked: number,
+    Timer: number,
+    Intensity: number,
+    Dynamic: number,
+    MinIntensity: number,
+    MaxIntensity: number,
+    PauseDynamic: number,
+    DynamicPowerMode: number,
+    ContractedPower: number,
+    FirmwareVersion: string
+}
